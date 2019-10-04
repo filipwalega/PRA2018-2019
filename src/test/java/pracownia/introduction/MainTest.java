@@ -1,5 +1,4 @@
 package pracownia.introduction;
 
-public class MainTest {
-
-}
+public class MainTest
+{ }
